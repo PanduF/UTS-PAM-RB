@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive.png",
         "backgroundColor": "#22b59a"
       },
-      "package": "com.ayufeblira.calculator"
+      "package": "com.PanduFirmanto.calculator"
     },
     "web": {
       "favicon": "./assets/iconfav.png"

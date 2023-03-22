@@ -31,7 +31,7 @@ class App extends Component {
   render(){
     return (
 
-      <View style={{flex:1,backgroundColor: 'pink'}}> 
+      <View style={{flex:1,backgroundColor: 'blue'}}> 
        <StatusBar backgroundColor="#22b59a" barStyle="light-content" /> 
 
        <View style={{flex: 0.3,justifyContent:'center',marginHorizontal:10}}>

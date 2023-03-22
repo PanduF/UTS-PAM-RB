@@ -1,23 +1,28 @@
+-Data Diri:
+Nama  : Pandu Firmanto
+NIM   : 120140020
+KElas : PAM RB
+
 -Nama APLIKASI
-Calculator Simpel versi Samsung
+kalkulator Simpel versi Samsung
 
 -Deskripsi Aplikasi
-Aplikasi calculator sederhana yang bisa melakukan operasi hitung sederhana seperti tambah kali bagi kurang. Aplikasi ini mempunyai tampilan yang menyerupai calculator hp samsung
+Aplikasi Kalmulator sederhana yang bisa melakukan operasi hitung sederhana seperti tambah kali bagi kurang. Aplikasi ini mempunyai tampilan yang menyerupai kalkulator hp samsung
 
 -Daftar Package
   "dependencies": {
-    "expo": "~44.0.0",
-    "expo-status-bar": "~1.2.0",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
-    "react-native": "0.64.3",
-    "react-native-web": "0.17.1",
-    "expo-updates": "~0.11.6"
+    "expo": "^48.0.9",
+    "expo-status-bar": "~1.4.4",
+    "expo-updates": "^0.16.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-web": "~0.18.10"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
-  },
+  }
 
 -Cara Menginstal Aplikasi
-download apk "UTS_RB_PAM_119140102_CALCULATOR.apk"
-lalu install di handphone pengguna
+download apk "Uts Pandu.apk"
+lalu install di handphone pengguna seperti menginstall aplikasi pada umumnya.
