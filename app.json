@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "calculator",
+    "slug": "calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#22b59a"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive.png",
+        "backgroundColor": "#22b59a"
+      },
+      "package": "com.ayufeblira.calculator"
+    },
+    "web": {
+      "favicon": "./assets/iconfav.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5f289fd7-20c7-47f3-9bf9-b5ee9e6ba6b6"
+      }
+    }
+  }
+}
