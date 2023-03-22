@@ -29,7 +29,7 @@ lalu install di handphone pengguna seperti menginstall aplikasi pada umumnya.
 -Apk Preview 
 ---
 <p align="center">
-    <img width="200px" src=".assets/WhatsApp Image 2023-03-22 at 08.28.38.jpeg">
+    <img width="200px" src="assets/WhatsApp Image 2023-03-22 at 08.28.38.jpeg">
 </p>
 
 ## Apk Link
