@@ -10,17 +10,17 @@ kalkulator Simpel versi Samsung
 Aplikasi Kalmulator sederhana yang bisa melakukan operasi hitung sederhana seperti tambah kali bagi kurang. Aplikasi ini mempunyai tampilan yang menyerupai kalkulator hp samsung
 
 ## Daftar Package
-  "dependencies": {
+- "dependencies": {
     - "expo": "^48.0.9",
-    -"expo-status-bar": "~1.4.4",
-    -"expo-updates": "^0.16.3",
-    -"react": "18.2.0",
-    -"react-dom": "18.2.0",
-    -"react-native": "0.71.3",
-    -"react-native-web": "~0.18.10"
+    - "expo-status-bar": "~1.4.4",
+    - "expo-updates": "^0.16.3",
+    - "react": "18.2.0",
+    - "react-dom": "18.2.0",
+    - "react-native": "0.71.3",
+    - "react-native-web": "~0.18.10"
   },
-  -"devDependencies": {
-    -"@babel/core": "^7.12.9"
+- "devDependencies": {
+    - "@babel/core": "^7.12.9"
   }
 
 ## Cara Menginstal Aplikasi
