@@ -1,7 +1,7 @@
 ## Data Diri:
--Nama  : Pandu Firmanto
--NIM   : 120140020
--KElas : PAM RB
+- Nama  : Pandu Firmanto
+- NIM   : 120140020
+- Kelas : PAM RB
 
 ## Nama APLIKASI
 kalkulator Simpel versi Samsung
@@ -11,7 +11,7 @@ Aplikasi Kalmulator sederhana yang bisa melakukan operasi hitung sederhana seper
 
 ## Daftar Package
   "dependencies": {
-    -"expo": "^48.0.9",
+    - "expo": "^48.0.9",
     -"expo-status-bar": "~1.4.4",
     -"expo-updates": "^0.16.3",
     -"react": "18.2.0",
