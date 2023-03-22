@@ -26,7 +26,6 @@ Aplikasi Kalmulator sederhana yang bisa melakukan operasi hitung sederhana seper
 -Cara Menginstal Aplikasi
 download apk "Uts Pandu.apk"
 lalu install di handphone pengguna seperti menginstall aplikasi pada umumnya.
-
 -Apk Preview 
 ---
 <p align="center">
