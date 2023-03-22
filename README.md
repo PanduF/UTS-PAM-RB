@@ -26,3 +26,12 @@ Aplikasi Kalmulator sederhana yang bisa melakukan operasi hitung sederhana seper
 -Cara Menginstal Aplikasi
 download apk "Uts Pandu.apk"
 lalu install di handphone pengguna seperti menginstall aplikasi pada umumnya.
+
+-Apk Preview 
+---
+<p align="center">
+    <img width="200px" src="./src/assets/WhatsApp Image 2023-03-22 at 08.28.38.jpeg">
+</p>
+
+## Apk Link
+- [KALKULATOR =>](https://github.com/PanduF/UTS-PAM-RB/blob/master/Uts%20Pandu.apk)
